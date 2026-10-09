@@ -20,3 +20,9 @@ Documentazione: https://docs.github.com/en/pages/getting-started-with-github-pag
 
 Nessuna risorsa esterna, raccolta dati o richiesta di rete. Il canvas e tutti i personaggi sono disegnati localmente.
 
+
+## Due giocatori sullo stesso dispositivo
+Ragazza rossa (1): WASD. Ragazza blu (2): frecce. Su touch ogni ragazza ha un gruppo di pulsanti, con supporto multitouch. Punteggi separati: vince chi ha più punti alla fine dei 60 secondi; è possibile il pareggio. Il topo fugge dalla ragazza più vicina. Se entrambe lo catturano esattamente alla stessa distanza, ricevono entrambe 10 punti.
+
+## Funghi e buchi
+Ogni 10 secondi compaiono quattro funghi: viola aumenta la velocità, rosso ingrandisce la ragazza e il raggio di cattura, nero rallenta, giallo rimpicciolisce e riduce il raggio di cattura. Gli effetti durano 6 secondi di gioco e non si accumulano; un nuovo fungo sostituisce quello precedente. Ogni nuova comparsa sostituisce i funghi rimasti. Quattro buchi sui lati permettono al topo di scappare: ricompare altrove senza assegnare punti. Pausa e nuova partita gestiscono anche gli effetti.
