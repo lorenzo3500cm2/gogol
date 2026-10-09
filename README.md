@@ -26,3 +26,6 @@ Ragazza rossa (1): WASD. Ragazza blu (2): frecce. Su touch ogni ragazza ha un gr
 
 ## Funghi e buchi
 Ogni 10 secondi compaiono quattro funghi: viola aumenta la velocità, rosso ingrandisce la ragazza e il raggio di cattura, nero rallenta, giallo rimpicciolisce e riduce il raggio di cattura. Gli effetti durano 6 secondi di gioco e non si accumulano; un nuovo fungo sostituisce quello precedente. Ogni nuova comparsa sostituisce i funghi rimasti. Quattro buchi sui lati permettono al topo di scappare: ricompare altrove senza assegnare punti. Pausa e nuova partita gestiscono anche gli effetti.
+
+## Topi e tunnel
+Cinque topi contemporaneamente, 12 funghi subito e ogni 10 secondi, 12 buchi. Anche i topi mangiano i funghi: stessi effetti per 6 secondi. Le ragazze entrano nei buchi e riappaiono in un altro buco con una pausa di 1,5 secondi prima di poter rientrare.
