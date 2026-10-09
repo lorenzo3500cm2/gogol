@@ -7,3 +7,6 @@ Il campo passa al livello successivo per entrambe quando una ragazza raggiunge l
 4. Conigli lenti e tartarughe veloci si muovono sul campo. Vince chi raccoglie l’uovo d’oro. In caso di cattura simultanea alla stessa distanza vincono entrambe.
 Funghi nel livello 1: viola velocità, rosso grandezza, nero lentezza, giallo piccolezza; effetti di 6 secondi anche sui topi. Tunnel negli altri livelli. Pausa con pulsante o Esc.
 Apri index.html per giocare. Per GitHub Pages carica tutti i file nella radice di gogol e scegli Settings → Pages → main → /(root).
+
+## Aggiornamento: cinque livelli
+Topi rallentati e quattro tunnel nel livello 1. L’uovo d’oro apre il livello 5 Memory: 12 carte (6 coppie), turni alternati fra rossa e blu. Due carte diverse si richiudono dopo un secondo di gioco e il turno passa. Una coppia uguale completa il quinto livello e vince la gara. Il livello 6 non è ancora definito.
