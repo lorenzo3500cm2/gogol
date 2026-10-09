@@ -3,3 +3,5 @@
 .stats div[hidden]{display:none}.pad b{font-size:11px}.pad.red button{background:#f1cfc1}.pad.blue button{background:#ccdfed}@media(max-width:550px){.bottom>p{flex-basis:70%}.pad{width:calc(50% - 9px)}.pad button{width:40px}.stats div{letter-spacing:.5px}}
 
 .legend{font-size:12px;line-height:1.8;color:#526a5e;background:#fffaf0;padding:12px 16px;border-radius:12px}
+
+.stats{grid-template-columns:repeat(4,1fr)}.objective{font-weight:800;background:#e4eacb;padding:12px 16px;border-radius:12px}.stats small{font-size:11px;letter-spacing:0}
